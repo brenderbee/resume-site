@@ -1,0 +1,13 @@
+h1{
+  text-align: center;
+}
+.goals {
+  text-align: center;
+  line-height: 30px;
+  font-size: 20px;
+}
+span.quaint{
+  font-weight: bold;
+  color: red;
+  font-family: sans-serif;
+}
